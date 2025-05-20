@@ -23,7 +23,7 @@ This project is inspired by Andrej Karpathy's [micrograd](https://github.com/kar
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/mlp-autograd-from-scratch.git
+   git clone https://github.com/Shaurya-Sethi/mlp-autograd-from-scratch.git
    cd mlp-autograd-from-scratch
    ```
 2. Install the required Python packages:
